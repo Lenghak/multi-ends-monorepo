@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@import "../../../node_modules/@ui/shadcn/globals.css";
+@import "../node_modules/@ui/shadcn/globals.css";
 
 @theme {
   --font-sans: "Source San 3", system-ui, sans-serif, "Apple Color Emoji",
